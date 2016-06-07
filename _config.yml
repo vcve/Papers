@@ -67,5 +67,5 @@ theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy: https://github.com/vcve/papers
+deploy: "https://github.com/vcve/papers"
 type: "git"
