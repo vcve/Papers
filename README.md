@@ -1,11 +1,4 @@
----
-layout: post
-title: "基於使用和滿足理論的用戶生成內容持續參與研究"
 
-categories: update
-comments: true
-share: true
----
 
 <h1>基於使用和滿足理論的用戶<br>生成內容持續參與研究<br>
 A Study of Sustained Participation in <br>User Generated Content Based on the <br>Use and Gratifications Theory
