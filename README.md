@@ -109,11 +109,11 @@ H3d： 用戶感知的享樂或情感需求對參與程度的影響初始和持�
 <h2>2 研究設計</h2>
 <h3>2.1 本研究的概念模型</h3>
 
-<div style="text-align:center"><img src="https://raw.githubusercontent.com/vcve/vcve.github.io/master/images/2015-06-07-1.png" align="middle"  alt="圖 2‑1 初級層次研究模型">
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/vcve/papers/master/2015-06-07-1.png" align="middle"  alt="圖 2‑1 初級層次研究模型">
 <p style="text-align:center">圖 2‑1 初級層次研究模型</p></div>
 
 <p>Nambisan與Baron (2009)運用使用和滿足（U&G）框架關於虛擬客戶環境（簡稱VCE）中自願參與活動的研究主要關注的是用戶之間在VCE互動，他將顧客感知利益分為學習、社會整合、個人整合與享樂。而這些互動的性質如何影響用戶收到或預計收益。本研究也遵循Nambisan與Baron (2009)對用戶感知利益的分類，並增加了參與階段的分類。其結果變數行為意願在本研究中具體體現為對用戶參與程度的影響，從而構建出本研究的理論模型如下圖所示：
-<div style="text-align:center"><img src="https://raw.githubusercontent.com/vcve/vcve.github.io/master/images/2015-06-07-2.png" align="middle"  alt="圖 2‑2本研究理論模型">
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/vcve/papers/master/2015-06-07-2.png" align="middle"  alt="圖 2‑2本研究理論模型">
 <p style="text-align:center">圖 2‑2本研究理論模型</p></div>
 <h3>2.2 變數界定與測量</h3>
 <p>本研究主要採用成熟的測量量表，採用李克特多維5點來測度，其中線上參與度的測量運用了Ellison 等人(2007) 和 Chang & Chuang(2011)的量表。用戶感知利益的變量分為四個，研究中分別從四個方面採取元素來測量。認知需求方面，本文運用Nonnecke、Preece、Andrews與Voutour (2004)和Nonnecke與Preece (1999)測試互聯網社區潛水使用者的資訊需求的量表，結合Beaudoin (2002)關於學習網站隱形學習者的知識獲取問項；社會整合需求根據潛水者的心理摘取了Nonnecke 與 Preece (1999)、Flanagin 與 Metzger (2001)和 Wang 與 Fesenmaier (2003)三篇文獻的問題；個人整合需求方面本文借鑒了Molly McLure、Wasko與Faraj (2005)關於電子社區知識分享關於個人整合利益的問題與Soroka、Jacov與Ur (2003)關於虛擬社群“隱形人”的問題編輯問卷；最後，享樂需求享樂動機是網上社區吸引用戶的直接動機，本文運用Moon與Kim (2001)為互聯網內容拓展技術接受模型（TAM）研究中使用的量表。</p>
